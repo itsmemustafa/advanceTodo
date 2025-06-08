@@ -3,22 +3,16 @@ A chill todo app built with React + Material-UI. Tasks save locally using localS
 
 Features
 Add tasks + filter by All / Done / In-progress
-
 Tasks saved in localStorage
-
 Clean MUI design
-
 Unique IDs with uuid
 
 Tech Stack
 React (hooks + context)
-
 Material-UI
-
 uuid for IDs
 
 localStorage for persistence
-
 Run Locally
 npm install
 npm start
