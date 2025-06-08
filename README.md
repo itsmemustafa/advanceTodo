@@ -4,6 +4,11 @@ A chill todo app built with **React** + **Material-UI**. Tasks save locally usin
 
 ---
 
+## Live Demo
+https://genuine-yeot-6df9cb.netlify.app/
+
+---
+
 ## Features
 
 - Add tasks + filter by **All / Done / In-progress**
